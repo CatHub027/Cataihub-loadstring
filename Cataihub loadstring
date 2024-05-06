@@ -1,1 +1,1 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/Cataihub/Script-Cataihub-v0.4/main/Script%20Cataihub%20v0.4')))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Cataihub/Cataihub-script-update-v0.5/main/Cataihub%20script%20update%20v0.5')))()
